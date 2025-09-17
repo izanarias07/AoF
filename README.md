@@ -1,2 +1,2 @@
-# AoF
-trabajos realizados en la asignatura Aplicaciones Ofimaticas
+
+Aplicaciones ofimaticas de SMR 
